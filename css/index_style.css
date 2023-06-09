@@ -21,3 +21,12 @@ strong {
     background: #000;
     color: #5c5b5b;
 }
+
+
+
+.film_card {
+    /* background-color: #5c5b5b; */
+    padding: 2vh;
+    margin: 2vh;
+    /* border-radius: 2vh; */
+}
